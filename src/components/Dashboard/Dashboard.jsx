@@ -182,7 +182,7 @@ export const Dashboard = () => {
   };
 
   return (
-    <div className="p-4 bg-gray-900 flex flex-col overflow-auto lg:h-[91vh] md:h-[90vh] sm:h-[90vh] text-white">
+    <div className="p-4 bg-gray-900 flex flex-col overflow-auto lg:h-[90vh] md:h-[90vh] sm:h-[90vh] text-white">
       <h1 className="p-2 font-bold text-2xl">Dashboard</h1>
       <div className="grid lg:grid-cols-3 sm: grid-cols-2 md:grid-col-2 gap-6">
         <div className="lg:col-span-2 sm:col-span-2 md:col-span-2 flex flex-wrap justify-between gap-4">

@@ -9,7 +9,7 @@ export const Navbar = () => {
         <div className="mx-auto px-2 sm:px-6">
           <div className="relative flex h-16 items-center justify-between">
             <div className="flex">
-              <FaDharmachakra  className='text-4xl text-blue-500 mr-10'/>
+              <FaDharmachakra  className='text-4xl text-blue-500 mr-14 ml-4'/>
               <div class="max-w-md mx-auto">
                 <div class="relative flex w-full h-8 rounded-lg border border-black bg-[#2a2b2f] overflow-hidden">
                   <div class="grid place-items-center h-full w-12 text-gray-300">
