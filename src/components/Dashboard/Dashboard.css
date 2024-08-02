@@ -1,0 +1,13 @@
+.p-datatable-tbody tr {
+    border-top: 1px solid gray;
+}
+.p-datatable-thead .p-column-header-content {
+    padding: 4px;
+}
+.p-rating-icon{
+    margin-right: 4px;
+    font-size: 18px;
+}
+.ps-menu-button:hover{
+    background: #2a2b2f !important;
+}
